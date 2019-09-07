@@ -1,0 +1,22 @@
+#panel tr {
+	float: left;
+	clear: both;
+	border-right: 1px solid #aaa;
+}
+#panel tr:last-child {
+	border-bottom: 1px solid #aaa;
+}
+#panel td {
+	width: 30px;
+	height: 30px;
+	border: 1px solid #aaa;
+	border-right: none;
+	border-bottom: none;
+	float: left;
+}
+#panel .label {
+	font-size: 11px;
+	line-height: 11px;
+	color: #000;
+	float: left;
+}

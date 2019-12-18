@@ -1,0 +1,29 @@
+   35.Away () 36. Worldly fate (with 'in life' 37."Oh,_!"("You got me!") 38. "What a shame!" Wrinkle in Time" 1. Hike(4 5. UPS' competition 4 heroine 58.Pin down 9. Kind of beer (4) 59.In a congenial fashion 63. Fifth note of the scale 13. Try (4) 17. Zeus' wife (4) 18. Coffin closer (4) 19. Kuwaiti ruler (4) 66. Historic time 67. Pour out the whines 68.Passing remarks 72. Informal greeting 74. Goof up 20. BP Amoco acquisition of 2000 (4) 21.1,000 baisa (4) 22. Castaway's place (4) 40.Falcon 9 prelaunch test 76. Larson's "The 46. Colorful thrush-like Side" 23. What makes life worth bird 78.Home of the brave living 25. Indisposed (1) 48. Calendar square 79. Jimmy Carter, e.g. 49. Disney dwarf 50.Abominable Snowman 84. Kind of bean 28. Cluster of French 85.Cheer vineyards (3) 29.FICO component /53."Voyager" personnel 51.MLB player's stat 86. Balderdash 87.A Turner Template- qverage
+
+
+
+
+
+<div id="clues" data-matrix="
+		[a,1,1]1. Hike[4];
+		[a,6,1]5. UPS' Competition[4];
+		[a,11,1]9. Kind of beer[4];
+		[a,16,1]13. Try[4];
+		[a,1,2]17. Zeus' wife[4];
+		[a,6,2]18. Coffin closer [4];
+		[a,11,2]19. Kuwaiti ruler [4];
+		[a,16,2]20. BP Amoco acquisition of 2000 [4];
+		[a,1,3]21.1,000 baisa [4];
+		[a,6,3]22. Castaway's place [4];
+		[a,11,3]23. What makes life worth living [9];
+		[a,1,4]25. Indisposed [15];
+		[a,17,4]28. Cluster of French vineyards [3];
+		[a,3,5]29. FICO component[5];
+		[a,9,5]30. Biological bristles[5];
+		[a,15,5]31.Odds' alternative [5]];
+		[d,1,1]1.Drive-____[4];
+		[d,2,1]2.Restraint[4];
+		[d,3,1]3.Destroy[9];
+		[d,4,1]4.Cabbage relatives[5];
+		[d,6,1]5. Spandex one-piecer[7];"
+	></div>
